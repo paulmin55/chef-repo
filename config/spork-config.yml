@@ -1,9 +1,11 @@
 default_environments:
+  - cd-demo
   - dev
   - prod
 
 environment_groups:
   all:
+    - cd-demo
     - dev
     - prod
 
