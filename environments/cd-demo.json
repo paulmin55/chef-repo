@@ -37,7 +37,7 @@
     "newrelic_monitoring": "= 1.0.0",
     "newrelic_mysql_plugin": "= 0.0.0",
     "nginx": "= 0.100.17",
-    "nginx_demo": "= 0.1.5",
+    "nginx_demo": "= 0.1.6",
     "nodejs": "= 0.6.8",
     "oniguruma": "= 0.0.0",
     "openssl": "= 1.0.0",
